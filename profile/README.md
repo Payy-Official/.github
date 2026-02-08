@@ -1,6 +1,5 @@
-<p align="center">
-  <img src="./assets/banner.png" alt="Payy banner" />
-</p>
+![Payy Banner](banner.png)
+
 
 # payy
 
