@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://cdn.discordapp.com/attachments/1352053355370778795/1470163125071249509/kS419uk.png?ex=698a4b9b&is=6988fa1b&hm=c9f55519a11b0d86ca317b352067af86cdcdeb735232e0390ff64980498c6718&" alt="Payy banner" />
+  <img src="./assets/banner.png" alt="Payy banner" />
 </p>
 
 # payy
