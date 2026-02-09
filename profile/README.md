@@ -1,4 +1,4 @@
-![Payy Banner](banner.png)
+![Payy Banner](profile/banner.png)
 
 
 # payy
