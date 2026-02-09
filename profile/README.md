@@ -1,4 +1,4 @@
-![Payy Banner](profile/banner.png)
+![image](https://github.com/user-attachments/assets/9b5bc56b-4517-4ff3-9b8e-53275f9c7fe8)
 
 
 # payy
